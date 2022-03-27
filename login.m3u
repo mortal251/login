@@ -2,17 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Imagen TV
-https://sv.spliktv.xyz/live/caster/MX/2606.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", ADN 40
-https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Milenio
-https://sv.spliktv.xyz/live/caster/MX/1250.m3u8
 
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="LISTA 3", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
