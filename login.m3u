@@ -1,117 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", DeporTV
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", TyC Sport
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", ESPN 2
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", ESPN 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", ESPN
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", ESPN 4
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Fox Sports
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Fox Sports 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Fox Sports Premiun
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", TNT Sports
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Disney Channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", CartoonNetwork
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", HBO
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", The FilmZone
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Space
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Cinecanal
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", TNT Arg
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", TNT Series
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", FX
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", FOX
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", AMC
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Discovery Home Health
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Senal Maria
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Senal_Maria/SA_SAGEMCOM/Senal_Maria.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", NatGeo
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Discovery
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Bloomberg
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Bloomberg/SA_SAGEMCOM/Bloomberg.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Canal U
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal_U/SA_SAGEMCOM/Canal_U.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Fox Sports Premiun
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", TNT Sports
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Canal Universidad
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_SAGEMCOM/Canal_Universidad.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", America TV
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", /Telefe
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Canal 7
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Artear
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Canal 9
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Todo Noticias
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Magazine
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
-
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
@@ -124,10 +14,6 @@ https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 1", Milenio
 https://sv.spliktv.xyz/live/caster/MX/1250.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="LISTA 3", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
@@ -155,9 +41,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d
 
 #EXTINF:-1 tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="LISTA 3", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWhn5N8/Apple-Onion-2016.png" group-title="LISTA 3", FÚTBOL PARA FANS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhbg22CD/DEPORTES.png" group-title="LISTA 3", PLUTO TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
@@ -240,8 +123,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8wkK5V/esports.png" group-title="LISTA 3", PLUTO TV E-SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=26e1d3a7-fa1f-11eb-9b62-0242ac110003
 
-
-
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="LISTA 3", IGN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
 
@@ -253,10 +134,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnGVfj4N/plutotvgamer.png" group-title="LISTA 3", PLUTO TV GAMER (Inglés)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Jjd5qG/aniplus.png" group-title="LISTA 3", ANIPLUS
-https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w530589839.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="LISTA 3", PLUTO TV ANIME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
@@ -272,7 +149,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNrrWF/anime_clasico.png" group-title="LISTA 3", PLUTO TV ANIME CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21623240-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=23edd2b1-bd38-47cd-8e20-edcb1fe6b822&userId=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt0XqS9T/Tokusato.png" group-title="LISTA 3", TOKUSATO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
@@ -354,8 +230,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c7600079
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/garfield-logo-61FF7BED47-seeklogo.com.png" group-title="LISTA 3", GARFIELD (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21620b30-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6fc64eb-a303-4093-ad51-7eae56c3d7cb&userId=&serverSideAds=true
-
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rugrats/images/5/51/AGU11.png/revision/latest?cb=20170727125138" group-title="LISTA 3", RUGRATS CRECIDOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
@@ -489,20 +363,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="LISTA 3", SERIES 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/850XcnNT/seriescomedia.png" group-title="LISTA 3", SERIES COMEDIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png" group-title="LISTA 3", SERIES LATINAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png" group-title="LISTA 3", SERIES RETRO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LISTA 3", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="LISTA 3", ACS NETWORK
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="LISTA 3", NUESTRA VISIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
@@ -536,9 +401,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773ee
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="LISTA 3", CINE FAMILIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="LISTA 3", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="LISTA 3", CINE ACCIÓN (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
@@ -690,9 +552,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf8886100076
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px0mGbf3/HUMOR.png" group-title="LISTA 3", PLUTO TV HUMOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PMD8Lm7/petcollective.png" group-title="LISTA 3", THE PET COLLECTIVE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a61-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad69ad2b-c3cd-4010-b69d-634cd5976ddd&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tG45bpq/trol.png" group-title="LISTA 3", TROL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4495153-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a2764e7-63c5-42d1-b852-912658276538&userId=&serverSideAds=true
 
@@ -750,8 +609,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brrSv3LH/novelas_clásicas.png" group-title="LISTA 3", TELEMUNDO TELENOVELAS CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0f0b220-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e9b33f-8cdd-440c-8503-74ea6fda2b73&userId=&serverSideAds=true
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 3", NOVELAS DRAMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c400-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1feeb0e2-4545-4706-9038-7ed5ff515781&userId=&serverSideAds=true
 
@@ -779,14 +636,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="LISTA 3", ESPAÑOL RUN TIME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=46fe0760-cd6b-11eb-89a0-1911255476a4&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc63e9bf-5ac9-45b2-9ed9-bf287900f7a8&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d35b060v/latinosup.png" group-title="LISTA 3", LATINOS UP
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="LISTA 3", VEGAVISIÓN CANAL 18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="LISTA 3", 13 ENTRETENIMIENTOS
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
@@ -797,13 +648,8 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="LISTA 3", 13 TELESERIES
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHYkvkxg/egmchannel.png" group-title="LISTA 3", EGM CHANNEL
-https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFDW6NTH/5tvlinares.png" group-title="LISTA 3", 5TV LINARES
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="LISTA 3", HUASCO TV
 https://paneltv.online:1936/8062/8062/playlist.m3u8
@@ -817,16 +663,11 @@ https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02P2ZYHC/latino_54.png" group-title="LISTA 3", CANAL CLATINO 54
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dWwMbQh/tvmaule.png" group-title="LISTA 3", TV MAULE LIVE
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="LISTA 3", TELESUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="LISTA 3", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66mT62HV/tvsur14.png" group-title="LISTA 3", TV SUR CANAL 14
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
@@ -864,9 +705,6 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="LISTA 3", VISIÓN DORADA TV
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="LISTA 3", CHOLUSAT SUR CANAL 36 (Honduras)
-http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="LISTA 3", SABER MÁS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 
@@ -881,9 +719,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htT0b5rC/ANIMALES.png.png" group-title="LISTA 3", PLUTO TV ANIMALES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htT0b5rC/ANIMALES.png.png" group-title="LISTA 3", PLUTO TV ANIMALES (España)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80604634-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1735a645-8fe1-4cf4-96a3-62c1e4c43743&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqnvmpSG/CIENCIA.png" group-title="LISTA 3", PLUTO TV CIENCIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
@@ -932,10 +767,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9afb0181613700073
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5MQ6VS1/mirador.png" group-title="LISTA 3", MIRADOR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="LISTA 3", LOUPE 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9LYFvTv/viajartv.png" group-title="LISTA 3", VIAJAR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
@@ -1033,9 +864,6 @@ https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" group-title="LISTA 3", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w309301863.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxZnRXxL/cbnes.jpg" group-title="LISTA 3", CBN ESPAÑOL
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF7hCyXN/alientovision.png" group-title="LISTA 3", ALIENTO VISIÓN
 https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_360p/chunklist_w558821661.m3u8
 
@@ -1081,7 +909,6 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hcwK4m2/C9CRIV.png" group-title="LISTA 3", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kM8bGrQB/eltres.png" group-title="LISTA 3", EL TRES ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w2087766883_b1699840.m3u8
 
@@ -1112,9 +939,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX6r0kkb/kzo.png" group-title="LISTA 3", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmpqw9C/12tartagal.png" group-title="LISTA 3", CANAL 12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/252ZDmvS/c7jujuy.png" group-title="LISTA 3", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -1126,9 +950,6 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1457065262.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqdX9qQ/catamarca-tv.png" group-title="LISTA 3", CATAMARCA TV
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v84YNW5v/c20.jpg" group-title="LISTA 3", CANAL 20 VILLAMARÍA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="LISTA 3", CANAL 5 SANTA FÉ
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
@@ -1144,9 +965,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtC0LfFv/teleferosario.png" group-title="LISTA 3", TELEFÉ ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNCXfsfX/ELEFÉNOTICIAS.png" group-title="LISTA 3", TELEFÉ NOTICIAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QgYXdC3/canal3formosa.jpg" group-title="LISTA 3", CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
@@ -1283,8 +1101,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="LISTA 3", VEVO LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1XBjtRL/STINGRAY_CONCIERTOS.png" group-title="LISTA 3", STINGRAY CONCIERTOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
 
@@ -1305,9 +1121,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7HWMP0r/mtvenvivo.png" group-title="LISTA 3", MTV EN VIVO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NsQHPyp/summer.png" group-title="LISTA 3", MTV SUMMER HITS
-https://stitcher.pluto.tv/stitch/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f02eef03-d91e-11eb-a5e5-0242ac110002
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SN46yCYX/mtvyo.png" group-title="LISTA 3", MTV YO!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
@@ -1344,8 +1157,6 @@ https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4tmq9gb/livemusic.png" group-title="LISTA 3", LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CD1JjJ4/teleritmo.png" group-title="LISTA 3", TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
@@ -1401,8 +1212,6 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1LJh8k/telemaxmx.png" group-title="LISTA 3", TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWmpMQ9/canal10chiapas.png" group-title="LISTA 3", CANAL 10 CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
 
@@ -1412,110 +1221,23 @@ https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYSqFqJW/rcg.png" group-title="LISTA 3", RCG 2
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡TELEDOCE!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡TVP ARG.!!
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡C9 ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡A13HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/argentina/telefe.png" group-title="LISTA 5", ARG: Telefe HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡LaTele
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Telefuturo
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡RPC
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡GOURMET
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡HBO
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡HBO mundi
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡TNT ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Fx
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Star Acción
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Star channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Star Hits
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Star Series
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡FXM
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Space
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡AMC
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡TNT SERIES
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡FOXSPORTS PREMIUM
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡FOXSPORTS
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡FOXSPORTS 2
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡FOXSPORTS 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡ESPN extra
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡ESPN
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡ESPN 3
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡TyC Spors
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡TNT Spors
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡Cinecanal
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
@@ -1532,66 +1254,11 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/Discovery
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡NATGEOLA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", #0 FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2146
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", #VAMOS FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2148
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", A&E FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/7731
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", A&E FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/275191
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", A&E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", A3 Cine HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/283299
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", A3 Cine HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/283299
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AMC FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1174
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AMC HD
 https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AMC
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Comedia FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1146
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Cine ñ
-http://iptvmedia.live:8080/FM10008/ee54fb4b/64788
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Accion FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1148
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Movistar Acción FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/75926
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Drama FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1144
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Estrenos FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1143
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Fest HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/168992
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR La Resistencia HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/286800
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Series FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1140
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MOVISTAR Series 2 FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1139
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT
 http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
@@ -1602,41 +1269,14 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT
 https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2187
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT SERIES
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Calle 13 FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1168
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AXN FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1172
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AXN HD
 http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AXN White FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1171
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Energy SP
 http://93.152.174.144:4000/play/energysp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Energy HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/2217
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Hollywood FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1154
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", FOX FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1158
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cosmo TV FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2215
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Comedy Central FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1164
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", SYFY FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1135
@@ -1674,8 +1314,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/279885
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Toros TV FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1132
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", NATGEO FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1138
 
@@ -1709,9 +1347,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/5303
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DISCOVERY CHANNEL
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Discovery Turbo HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/290062
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Discovery World HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1162
 
@@ -1723,9 +1358,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/27790
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Investigation Discovery FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/273769
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Investigation Discovery HD
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Crime+ Investigation HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/5292
@@ -1772,9 +1404,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/1145
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Channel FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/274522
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Channel HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274582
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Channel
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
@@ -1796,14 +1425,8 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/5298
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney XD HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/282970
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney XD HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274572
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Canal Panda HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1166
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nickelodeon HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274960
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nickelodeon FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/2218
@@ -1829,9 +1452,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/2214
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Pluto TV Kids (Spain)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=910&deviceId=5f1aab1d29b39600073e243f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", CARTOON NETWORK HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVG Infantil HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/281806
 
@@ -1840,9 +1460,6 @@ http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", STUDIO UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", STAR ACCION
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cinecanal HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/290334
@@ -1874,29 +1491,14 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/91989
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO Xtreme HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/285192
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO Mundi
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", CARTOON network
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Fx
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", FX
 http://spliktv-edge2.wedrly.xyz/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", FXM
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", STAR SERIES
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Star Hits
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Star channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", El Gourmet
 https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
@@ -1910,23 +1512,14 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/16274
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DW FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/147345
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Telefe HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVE Star HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/31779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Space
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Espana HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/5308
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Hola TV HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/3061
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TELEDOCE
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", XTRM FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/11148
@@ -2051,9 +1644,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/30906
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Live FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/280870
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Live FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/21860
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Live HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/15452
 
@@ -2084,20 +1674,8 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/57018
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", 1HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Music Now HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/11952
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Music Now HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274743
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", VH1 FHD UK
 http://iptvmedia.live:8080/FM10008/ee54fb4b/4730
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", VH1 FHD USA
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2370
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", VH1 USA
-http://iptvmedia.live:8080/FM10008/ee54fb4b/275138
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", BosqueTv
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -2111,20 +1689,11 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/281789
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Molahits TV HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/281793
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Hit Music Channel HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/7008
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Hit Music Channel HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274738
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Sol Musica FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/168991
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Sol Musica FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/290138
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Music Choice 90s HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282839
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Music Choice Dance EDM HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/282852
@@ -2135,24 +1704,11 @@ https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Pluto TV Qwest TV Jazz & Beyond (720p)
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 5", C9 ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 5", 13 TV HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 5", AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 5", LaTele
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_200x200.jpg" group-title="LISTA 5", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -2166,18 +1722,8 @@ https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="LISTA 5", Estrella News
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg" group-title="LISTA 5", RCN+
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="LISTA 5", TELEFUTURO HD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-
-#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/Paraguay/latele-pe.png" group-title="LISTA 5", LA TELE HD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="LISTA 5", SONY COMEDIAS
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
@@ -2187,8 +1733,6 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="LISTA 5", SONY CINE
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="LISTA 5", Canal 4 HD
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
@@ -2202,46 +1746,14 @@ https://edge-live15-sl.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_SAGE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcSpW1y/TELEC-COCHABAMBA.jpg" group-title="LISTA 5", TVMAX PAN.
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png" group-title="LISTA 5", TVN HD
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F156r4SJ/HOLA-TV.png" group-title="LISTA 5", HOLA TV
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="LISTA 5", LAS ESTRELLAS
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png" group-title="LISTA 5", PARAMOUNT HD
 https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="LISTA 5", DISCOVERY ID
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="LISTA 5", WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t2L86QoHY7o/maxresdefault.jpg" group-title="LISTA 5", Discovery Channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild-618x400.jpg" group-title="LISTA 5", Nat Geo Wild
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="LISTA 5", NATGEO
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="LISTA 5", TBS HD
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="LISTA 5", TLC
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="LISTA 5", FX HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="LISTA 5", FXM
 http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="LISTA 5", GOURMET
 https://edge9-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
@@ -2252,27 +1764,11 @@ https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/410-4109688_invitados-a-un-amc-tv-png-logo.png" group-title="LISTA 5", AMC
 http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="LISTA 5", HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948320646-Imagen.jpg" group-title="LISTA 5", HBO 2 HD
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="LISTA 5", HBO Family
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="LISTA 5", HBO Pop
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/discovery_world.png" group-title="LISTA 5", Discovery World
 https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="LISTA 5", MEGA ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
-
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/SPAIN/SYFYHD.png" group-title="LISTA 5", Syfy HD
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.panoramaaudiovisual.com/en/wp-content/uploads/2013/01/Cosmopolitan-Tv.png" group-title="LISTA 5", COSMO HD
 http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
@@ -2328,9 +1824,6 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="LISTA 5", TNT ARG.
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="LISTA 5", CARTOON NETWORK HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="LISTA 5", AMC HD
 https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
@@ -2342,8 +1835,6 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecana
 
 #EXTINF:-1 tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="LISTA 5", "CANAL 4 URU"
 https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="LISTA 5", FOX SPORTS
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
@@ -2363,38 +1854,11 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="LISTA 5", FOX SPORTS 3
 http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="LISTA 5", ESPN PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="LISTA 5", ESPN 2 PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="LISTA 5", ESPN
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="LISTA 5", ESPN 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="LISTA 5", ESPN 4
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="LISTA 5", ESPN EXTRA
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/puBDhTt.png" group-title="LISTA 5", TyC Sports
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="LISTA 5", TNT SPORTS
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="LISTA 5", A&E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="LISTA 5", STAR CHANNEL
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="LISTA 5", STAR CHANNEL
-https://edge02-fdo-py.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="LISTA 5", HBO 1
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
@@ -2414,485 +1878,128 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOhYW3W.png" group-title="LISTA 5", TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",AXN 
-http://168.232.168.242:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",AZCORAZON
-http://168.232.168.242:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",AZMUNDO
-http://168.232.168.242:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",BBC WORLD
-http://168.232.168.242:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",BABY TV
-http://168.232.168.242:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",BOOMERANG
-http://168.232.168.242:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CARTOON NETWORK HD
-http://168.232.168.242:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CINECANAL HD
-http://168.232.168.242:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CNN
-http://168.232.168.242:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CNNE
-http://168.232.168.242:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CONCERT CHANNEL
-http://168.232.168.242:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CINE LATINO
-http://168.232.168.242:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",CINEMAX
-http://168.232.168.242:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",COMEDY CENTRAL HD
-http://168.232.168.242:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY THEATHER HD
-http://168.232.168.242:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY CHANNEL HD
-http://168.232.168.242:8000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY CIVILIZATION
-http://168.232.168.242:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY HOME & HEALTH
-http://168.232.168.242:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY ID HD
-http://168.232.168.242:8000/play/a06r/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY SCIENCE
-http://168.232.168.242:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY TURBO
-http://168.232.168.242:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISCOVERY WORLD HD
-http://168.232.168.242:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISNEY
-http://168.232.168.242:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISNEY JR
-http://168.232.168.242:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",DISNEY XD
-http://168.232.168.242:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",ESPN +
-http://168.232.168.242:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",ESPN  HD
-http://168.232.168.242:8000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",ESPN2 HD
-http://168.232.168.242:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",ESPN3 HD
-http://168.232.168.242:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",ESPN2
-http://168.232.168.242:8000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",EWTN
-http://168.232.168.242:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX
-http://168.232.168.242:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX ACTION HD
-http://168.232.168.242:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX COMEDY HD
-http://168.232.168.242:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX FAMILY HD
-http://168.232.168.242:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX HD
-http://168.232.168.242:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX LIFE
-http://168.232.168.242:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX MOVIES HD
-http://168.232.168.242:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX SPORT
-http://168.232.168.242:8000/play/a0in/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX SPORTS2 HD
-http://168.232.168.242:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX SPORTS3 HD
-http://168.232.168.242:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX SERIES HD
-http://168.232.168.242:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX CLASSICS HD
-http://168.232.168.242:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",FOX SPORTS HD
-http://168.232.168.242:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",GOLDEN
-http://168.232.168.242:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",H2
-http://168.232.168.242:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HBO
-http://168.232.168.242:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HBO FAMILY HD
-http://168.232.168.242:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HBO HD
-http://168.232.168.242:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HBO PLUS HD
-http://168.232.168.242:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HBO XTREME
-http://168.232.168.242:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HBO2 HD
-http://168.232.168.242:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HOLA! TV HD
-http://168.232.168.242:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HTV 
-http://168.232.168.242:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HISTORY HD
-http://168.232.168.242:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",HOME & HEALTH HD
-http://168.232.168.242:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",LAS ESTRELLAS HD
-http://168.232.168.242:8000/play/a0ig/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",LIFE TIME
-http://168.232.168.242:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",MI MUSICA HD
-http://168.232.168.242:8000/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",MTV HD
-http://168.232.168.242:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",MTV HITS
-http://168.232.168.242:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",MTV SIM HD
-http://168.232.168.242:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",MAS CHIC
-http://168.232.168.242:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",MULTIPREMIER
-http://168.232.168.242:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NATGEO HD
-http://168.232.168.242:8000/play/a06j/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NATGEO KIDS
-http://168.232.168.242:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NATGEO WILD
-http://168.232.168.242:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NATIONAL GEOGRAPHIC
-http://168.232.168.242:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NICK JR
-http://168.232.168.242:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NICK SIM HD
-http://168.232.168.242:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",NICKELODEON
-http://168.232.168.242:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",PARAMOUNT HD
-http://168.232.168.242:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",PASIONES HD
-http://168.232.168.242:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",RCN
-http://168.232.168.242:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",RCN NOVELAS
-http://168.232.168.242:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",SEMILLITAS
-http://168.232.168.242:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",SONY HD
-http://168.232.168.242:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",SPACE HD
-http://168.232.168.242:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",SUNDANCE HD
-http://168.232.168.242:8000/play/a0ie/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",STAR TVE HD
-http://168.232.168.242:8000/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TCM
-http://168.232.168.242:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TELEHIT HD
-http://168.232.168.242:8000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TELEHIT MUSICA HD
-http://168.232.168.242:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TELEMUNDO HD
-http://168.232.168.242:8000/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TLC
-http://168.232.168.242:8000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TLNOVELAS HD
-http://168.232.168.242:8000/play/a0ih/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TNT HD
-http://168.232.168.242:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",TNT SERIES HD
-http://168.232.168.242:8000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",UNIVERSAL
-http://168.232.168.242:8000/play/a0eo/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",UNIVISION HD
-http://168.232.168.242:8000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 6",WARNER HD
-http://168.232.168.242:8000/play/a0eq/index.m3u8
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ch5
 http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", NBT
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ALTV
-http://host4.dynns.com/stream/7bf5523a5d1d48948b817d7b37660a4d.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", TPTV
-http://host4.dynns.com/stream/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", TNN
-http://host4.dynns.com/stream/77774220bb8e40aa94e549e29ff3ed8a.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", JKN18
-http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", NationTV
-http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", workpoint
-http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True4u
 https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1645041885&x_ark_path_prefix=%2Flive%2F&x_ark_signature=BBKd2XlEf52rWsd_iyytUQ
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", GMMChannel
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_dFjidPelOX8dAnqfYCpt8k)/dm/3/x6rz4t7/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ch8
-http://host4.dynns.com/stream/15c52eeb21b748319771eb794a6cf242.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Mono29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ch9
-https://stream-03.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xnptGtlxCX5cFz3GWGhwF_8)/dm/3/x74wlgj/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", one-HD
-https://stream-04.sg1.dailymotion.com/sec(-0fhsFhycCtfi6ARUwilaF2hTRrqND2Wa1x37UKlew0)/dm/3/x6824x8/s/live-4.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Thairath-TV
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", CH3
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1641684222&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=DoSvO3sd5iFCOVXKphoogQ
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", AMARIN-TV-HD
 https://ctr-10038-ap-th.dailymotion-live-mr.qwilted-cds.cqloud.com/sec(EWe07LaLICe6ZTgKrFaKW1U0T46NbgOUUJHhhroxaS0)/dm/3/x7z8zsu/s/live-1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", CH7
-https://www.wopep.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", PPTV-HD
-https://www.wopep.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", PPTV
-https://smart-tv.livedoomovie.com:4431/02_PPTVHD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", TOPNEWS
 https://live.topnews.co.th/hls/topnews_a_480.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ฟ้าวันใหม่
 https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", TVB ไทย
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FWTOON
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Toonee
-http://61.19.242.134/feed/202105171329/LC23/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Boomerang th
-http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Cartoon Club
-https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Sanook
-http://61.19.242.134/feed/202105171329/LC53/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Da Vinci Kids 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Da Vinci Kids
 http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", DreamWorks VN
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", nick HD+ 
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ZooMoo
-http://61.19.242.134/feed/202105171329/LC38/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Baby TV
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Baby First 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Baby First
 http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MARVEL HQ 
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", CONTV Anime
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Aniplus
-http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", HBO
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ChineseMore
-https://www.wopep.com/02_FoxMoviesHD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FwMov
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FwSov
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", WorldMovie
-https://21oy.short.gy/5WF7iU
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FusoMov1
-http://203.159.95.172:8081/live/invest002/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FusoMov2
-http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FusoMov3
-https://26t4.short.gy/popart.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FusoMov4
-https://26t4.short.gy/1111,m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ActionMov1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ActionMov2
-http://203.159.95.172:8081/live/mov2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FusoSerie1
-http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FusoSerie2
-http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", มังกร
-https://boxmovie-th.com/app-api-android/true/Mangorn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", AND TV online
 https://live.thaitvstream.com/play/andtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Ping
-http://916309128f3e.sn.mynetname.net:1935/aslive/warnertv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", JOMYUTH
-http://161.82.243.130:1936/HDChampion/Champion/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Sun
-https://21oy.short.gy/FnkvKC
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Samurai
-https://21oy.short.gy/qBcNnG
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Box Film 
-https://21oy.short.gy/3mBPjN
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ZEEหนัง 
-https://21oy.short.gy/vM0sxL
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Mix_major
 https://edge6a.v2h-cdn.com/m2s7/Mix_major.stream_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", CTB
 https://54c241893bf39.streamlock.net/CTB/CTB/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Channel8 Thailand 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Channel8 Thailand
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", AXN
-http://ip2121.com:8081/live/AXN_Y/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", fox_crime
-https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Warner TV
-http://61.19.242.134/feed/202105171329/LC28/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Thrill
-http://61.19.242.134/feed/202105171329/LC26/index..m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", STAR WORLD
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", comedy1
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Kix
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", CINEMAX HD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", FX MOVIES
-http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137207
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", PSI Saradee
-https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Sumrujlok
-https://21oy.short.gy/fusotv/Sumrujlok/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", MySci 
-https://21oy.short.gy/fusotv/MySci/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", DiscoveryHDWorld
-https://wopep.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", history
-https://wopep.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", H2HD
-https://wopep.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", History True
-https://www.wopep.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", H2 True
-https://www.wopep.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Discovery HD 
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Discovery Asia True
-https://www.wopep.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Animal Planet True
-https://www.wopep.com/02_AnimalPlanet/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Lovenature FHD EN
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", BBC Earth
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ESPN
-https://r3-sn-5fo-c37ed63.googleuservideo.com/liveball99_m4/espnbrazil/chunks.m3u8?nimblesessionid=74657540&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjIgNjozMToyNiBQTSZoYXNoX3ZhbHVlPXNSZUh1NUZuWVJtLy9oMnZQOEF1V1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNCZpZD04Njg2MTk=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", ESPN2
-https://r3-sn-5fo-c37ed63.googleuservideo.com/liveball99_m4/espn2br/chunks.m3u8?nimblesessionid=74658365&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjIgNjozMzo1MiBQTSZoYXNoX3ZhbHVlPVVFV0NZaWxqZjdJeHEvVzJSNDdyMkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMSZpZD03OTgwMDM=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", BEIN SPORT HD 1
-https://r3-sn-5fo-c37ed63.googleuservideo.com/liveball99_m1/beinsport1_480p/chunks.m3u8?nimblesessionid=74660967&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjIgNjozNzo0NSBQTSZoYXNoX3ZhbHVlPTFPYWNxaVU4bmxQZlB0WndXUiswN1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOSZpZD03MzY1NjE=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", BEIN SPORT HD 2
-https://r3-sn-5fo-c37ed63.googleuservideo.com/liveball99_m1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=74661626&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjIgNjozODo0NCBQTSZoYXNoX3ZhbHVlPTc4VnlvbGlmN0dXN0lCYmtVK3FkMkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zMSZpZD02MjU1NjQ=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True PremierHD 1
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True PremierHD 2
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True PremierHD 3
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True PremierHD 4
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True PremierHD 5
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True PremierHD 6
-https://r3-sn-5fo-c37ed63.googleuservideo.com/liveball99_m1/trueepl6_480p/chunks.m3u8?nimblesessionid=74655749&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjIgNjoyNjo1NyBQTSZoYXNoX3ZhbHVlPTJpcjd6M3FnTDFxZmtrVXYvWXRnNVE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNyZpZD00NzEzNzI=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Sport hd 1
-https://wopep.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Sport hd 2
-https://wopep.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Sport hd 3
-https://wopep.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Sport hd 4
-https://wopep.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Premier1
-https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Premier2
-https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Premier3
-https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Premier4
-https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Premier5
-https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Premier5
-https://r3-sn-5fo-c37ed63.googleuservideo.com/liveball99_m1/trueepl6_480p/chunks.m3u8?nimblesessionid=74655749&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjIgNjoyNjo1NyBQTSZoYXNoX3ZhbHVlPTJpcjd6M3FnTDFxZmtrVXYvWXRnNVE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNyZpZD00NzEzNzI=
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Truesport
-https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Truesport2
-https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Truesport3
-https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Truesport4
-https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", tennis
-https://wopep.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", NBA
-https://wopep.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Golf HD
-https://wopep.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", True Sport 7
-https://wopep.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", KÊNH PREMIER
-http://cro.hockeynews.club/live/1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7",  Math 1HD
-http://193.33.88.172/football1_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Math 2HD
-http://193.33.88.172/football2_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", Math 3HD
-http://193.33.88.172/football3_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", sporttv1
-https://wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", sporttv2
-https://wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", sporttv3
-https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", sporttv4
-https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", sporttv5
-https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", bt sport1
-https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", bt sport2
-https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", SPOTV 
-https://wopep.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 7", SPOTV 2 
-https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", AR | DIRECTV 
-https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream04/hdntl=exp=1646079560~acl=%2f*~data=hdntl~hmac=2200861123450e62d1d5aef6d88f9670781c104052e517fcfed4b14f53fd37d7/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ESPN 1
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
@@ -2906,130 +2013,93 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", AR | FOXSPORT 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",AR | FOXSPORT PREMIUM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", AR | FOXSPORT PREMIUM
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",IT | SETANA SPORT 
-https://sl03.varcdn1.ru/setantasport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",IT | SETANA SPORT 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", IT | SETANA SPORT 1
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",BR | TNT SPORTS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", BR | TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",BR | TNT SPORTS 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", BR | TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",BR | TNT SPORTS 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", BR | TNT SPORTS 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",BR | TNT SPORTS 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", BR | TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",BR | TNT SPORTS 5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", BR | TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",MX | TNT SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", MX | TNT SPORT
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",AR | T&C SPORTS 
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | DUBAI SPORT 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | DUBAI SPORT 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | DUBAI SPORT 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | DUBAI SPORT 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | DUBAI SPORT 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | DUBAI SPORT 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | ADSPORT 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | ADSPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | ADSPORT 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | ADSPORT 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | ADSPORT 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | ADSPORT 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | CHAMPION TV 1 HD
-http://tvn.x10.bz/vidio/master-6.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | CHAMPION TV 2 HD
-http://tvn.x10.bz/vidio/master-7.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | CHAMPION TV 3 HD
-http://tvn.x10.bz/vidio/master-8.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | CHAMPION TV 4 HD
-http://tvn.x10.bz/vidio/master-17.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | DUBAI RACING 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | DUBAI RACING 1
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | DUBAI RACING 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | DUBAI RACING 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",AR | T&C SPORT PLAY
-https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",EN | ALL SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", EN | ALL SPORT
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",MX | TNT SPORT MEXICO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", MX | TNT SPORT MEXICO
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",TU | TURKENISTAN SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", TU | TURKENISTAN SPORT
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",MX | CLARO SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", MX | CLARO SPORT
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",IN | INDIYA INDIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", IN | INDIYA INDIA
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",AZE | ATV 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", AZE | ATV 1
 http://85.132.81.184:8080/atv/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",RU | RU Астрахань SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", RU | RU Астрахань SPORT
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | BERITASATU WORLD INDONESIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", INDO | BERITASATU WORLD INDONESIA
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | INDOSIAR LIGA 1-2
-http://tvn.x10.bz/vidio/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",EN | LIVERPOOL TV
-http://tvn.x10.bz/vidio/master-3.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",INDO | OCHANNEL INDONEESIA LIGA 1-2
-http://tvn.x10.bz/vidio/master-18.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",LIE | LIECHTEIN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", LIE | LIECHTEIN
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | SHARJAT SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | SHARJAT SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | BAHRAIN SPORT 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | BAHRAIN SPORT 1
 http://185.105.4.106:1935/live/Bahrain Sports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",EN | BEK SPORTS WEST
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", EN | BEK SPORTS WEST
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",ARA | ARRIADA 3 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ARA | ARRIADA 3 HD
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8",EN | ATG
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", EN | ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-
-
-
 
