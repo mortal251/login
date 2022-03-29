@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="LISTA 3", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
@@ -57,9 +53,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWzMzx2j/action-sports.png" group-title="LISTA 3", ACTION SPORTS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWzMzx2j/action-sports.png" group-title="LISTA 3", ACTION SPORTS 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a103ec00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05cde875-5856-4889-a846-2559db77631d&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="LISTA 3", MLB NETWORK
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
@@ -132,9 +125,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="LISTA 3", PLUTO TV ANIME (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=216343b0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aab02aec-78bc-44ef-9e5d-e1517268baa5&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N1THpFQ/ANIME-ACCION.png" group-title="LISTA 3", PLUTO TV ANIME ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHNrrWF/anime_clasico.png" group-title="LISTA 3", PLUTO TV ANIME CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21623240-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=23edd2b1-bd38-47cd-8e20-edcb1fe6b822&userId=&serverSideAds=true
@@ -352,9 +342,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="LISTA 3", SERIES 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png" group-title="LISTA 3", SERIES LATINAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LISTA 3", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
@@ -388,9 +375,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvV9jbHr/cine_clasico.png" group-title="LISTA 3", CINE CLÁSICO (España)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="LISTA 3", CINE FAMILIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="LISTA 3", CINE ACCIÓN (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
 
@@ -417,9 +401,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxQB2sCP/xoxo.png" group-title="LISTA 3", CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNSgq7gv/CINE-ROMANCE.png" group-title="LISTA 3", CINE ROMANCE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6XNrcDk/cineromantico.png" group-title="LISTA 3", CINE ROMÁNTICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
@@ -751,9 +732,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90LrDV1x/misteriosmedicos.png" group-title="LISTA 3", MISTERIOS MÉDICOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpYqDwMh/NOSEY_ESCÁNDALOS.png" group-title="LISTA 3", NOSEY ESCÁNDALOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9afb01816137000737f799/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9b9e94-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9b2a898c-7040-4bff-bd1e-d592627cbf9f&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5MQ6VS1/mirador.png" group-title="LISTA 3", MIRADOR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
 
@@ -783,9 +761,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx1kL5y0/recetas.png" group-title="LISTA 3", PLUTO TV RECETAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb42e440-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef972a2c-8672-41cf-b2e4-003e44fbe25a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHX8ZV7L/foodies.png" group-title="LISTA 3", FOODIES
-https://stitcher.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vM7CX0/hellskitchen.png" group-title="LISTA 3", HELL'S KITCHEN EN ESPAÑOL
 https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
@@ -819,9 +794,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzcc4rKB/mariavision.png" group-title="LISTA 3", MARÍA VISIÓN
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sftyNStn/esne.png" group-title="LISTA 3", ESNE TV
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=601202c295243c00016e587f&dw=10800&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1611879490%7Eacl%3D%2F*%4044045%2F*%7Ehmac%3D2637aa9afeaaf6b7163d50dbbd0ba206060910b1237ff724e144268c8273c289
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj2CgsGY/orbe21.png" group-title="LISTA 3", ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -864,9 +836,6 @@ https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w75593
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8wvx2f/HOSANNAVISION.png" group-title="LISTA 3", HOSANNA VISIÓN
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="LISTA 3", NEO TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSd6MFS/BANNER-TV-8.png" group-title="LISTA 3", CIUDAD MÁGICA TV
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
@@ -1250,16 +1219,7 @@ http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT
-http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT
 https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TNT
-https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", AXN HD
-http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Energy SP
 http://93.152.174.144:4000/play/energysp/index.m3u8
@@ -1278,9 +1238,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/2208
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Atreseries FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/9102
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TCM FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1134
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Sundance TV HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/2757
@@ -1311,9 +1268,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/274082
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", NATGEO
 https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", NATGEO
-http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", NATGEO Wild FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1137
@@ -1432,9 +1386,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/274450
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DreamWorks TV HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/281787
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Boing HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1169
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Clan
 http://iptvmedia.live:8080/FM10008/ee54fb4b/2214
 
@@ -1468,12 +1419,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/285191
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO
-http://spliktv-edge2.wedrly.xyz/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO 2
-http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO Signature HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/91989
 
@@ -1482,9 +1427,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/285192
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", CARTOON network
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", FX
-http://spliktv-edge2.wedrly.xyz/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", FXM
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
@@ -1528,9 +1470,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/285720
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Canal Extremadura HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/11776
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cultura 24 TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/197864
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", D Kiss HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/9356
 
@@ -1561,17 +1500,11 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/5306
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVE Internacional FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/8715
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVG 2 HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281802
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVG Cultural HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/71536
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Telesur FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/8125
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TeleVigo FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285825
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TV3 Cataluna FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/9367
@@ -1605,9 +1538,6 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/13956
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", VTV FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/8659
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV 00s HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/11146
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV 80s HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/19911
@@ -1798,9 +1728,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="LISTA 5", NATGEO
 https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="LISTA 5", NATGEO
-http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4mh9njY/CVMYRE93-400x400.jpg" group-title="LISTA 5", NATGEO WILD
 https://chromecast.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
@@ -1816,9 +1743,6 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Ar
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="LISTA 5", AMC HD
 https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="LISTA 5", AXN HD
-http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="LISTA 5", CINECANAL HD
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
@@ -1828,20 +1752,11 @@ https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_UR
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="LISTA 5", FOX SPORTS
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="LISTA 5", FOX SPORTS
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="LISTA 5", FOX SPORTS 2
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="LISTA 5", FOX SPORTS 2
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="LISTA 5", FOX SPORTS 3
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="LISTA 5", FOX SPORTS 3
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="LISTA 5", A&E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
@@ -1866,9 +1781,6 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOhYW3W.png" group-title="LISTA 5", TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", ESPN 1
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", AR | ESPN 2 ARG
 https://edge10-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-avc1_1499968=10002.m3u8
@@ -1968,4 +1880,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", EN | ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+
 
