@@ -74,11 +74,7 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/60943
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Paramount Network HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/2209
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Caza y Pesca FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1165
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Caza y Pesca FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/279885
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Toros TV FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/1132
@@ -107,116 +103,18 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/1155
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Historia HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/274305
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Blaze HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5303
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DISCOVERY CHANNEL
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Discovery World HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1162
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Discovery World HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/273677
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Investigation Discovery FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/27790
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Investigation Discovery FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/273769
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Crime+ Investigation HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Crime+ Investigation HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/273250
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Odisea HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2194
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DMAX HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2762
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DMAX HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274658
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Decasa HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2771
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Canal Cocina
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1167
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Divinity
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2795
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nova HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2189
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Mega FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2190
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Be Mad
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2213
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Baby TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5302
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Baby TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/50911
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Channel FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1145
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Channel FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274522
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Channel
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Junior HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5299
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Junior HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274542
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Junior HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/49457
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney Junior HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274571
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney XD HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5298
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Disney XD HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282970
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Canal Panda HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/1166
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nickelodeon FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2218
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nickelodeon FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274926
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nick Junior HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5296
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Nick Junior HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/274450
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DreamWorks TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281787
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Clan
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2214
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Pluto TV Kids (Spain)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=910&deviceId=5f1aab1d29b39600073e243f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVG Infantil HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281806
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", GOLDEN PLUS
 http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
@@ -224,8 +122,7 @@ http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", STUDIO UNIVERSAL
 http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cinecanal HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/290334
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cinecanal
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
@@ -236,17 +133,12 @@ http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HOME & HEALT
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285191
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO Signature HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/91989
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", HBO Xtreme HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285192
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", CARTOON network
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
@@ -260,185 +152,16 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cosmo FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/16274
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", DW FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/147345
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVE Star HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/31779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Espana HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5308
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Hola TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/3061
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", XTRM FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/11148
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Agrotendencia TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/286287
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", A Punt HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/146343
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Aragon TV Internacional HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2758
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Bloomberg TV EMEA Live Event HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285720
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Canal Extremadura HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/11776
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", D Kiss HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/9356
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Distrito TV FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/201938
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Intereconomia TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/201928
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Esport 3 FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/7445
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Euronews en Espanol HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Fox News Channel HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2181
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", France 24 Espanol FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/283887
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Galicia TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/2192
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Ten HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/5306
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVE Internacional FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/8715
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TVG Cultural HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/71536
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Telesur FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/8125
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", TV3 Cataluna FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/9367
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", V+
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285797
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Canarias Tv
-http://iptvmedia.live:8080/FM10008/ee54fb4b/11809
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Pequeradio HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285793
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", La Otra HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/145616
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ETB HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/50135
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ETB 1 HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/165969
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ETB 2 HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/165970
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ETB Eventos 1 HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/285757
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cacavision HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/13956
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", VTV FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/8659
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV 80s HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/19911
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV 80s HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/280278
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV 90s HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281795
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", club MTV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281794
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Classic HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/290680
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Classic HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/4735
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Classic HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/30906
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Live FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/280870
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Live HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/15452
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV LIVE HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282303
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Live HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/198940
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Base HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/4733
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Base HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/32840
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Music UK HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282262
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV Music UK HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282868
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV 2 HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/15073
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", MTV U HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/57018
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", 1HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", VH1 FHD UK
-http://iptvmedia.live:8080/FM10008/ee54fb4b/4730
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", BosqueTv
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Cadena Elite HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/200665
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Hit TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281789
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Molahits TV HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/281793
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Sol Musica FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/168991
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Sol Musica FHD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/290138
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Music Choice Dance EDM HD
-http://iptvmedia.live:8080/FM10008/ee54fb4b/282852
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", Pluto TV Qello Concerts (720p)
 https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
