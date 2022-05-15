@@ -427,7 +427,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 8", EN | ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTM3U
 
 #EXTINF:-1,ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -988,14 +987,7 @@ https://www.fifa5t.com/doballlive/ch389/
 https://www.fifa5t.com/doballlive/ch385/
 #EXTINF:-1, tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/sport1-plus-sender-logo-275752.png", SPORT1+ HD
 https://www.fifa5t.com/doballlive/ch366/
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png", Nova Sport BG
-https://www.fifa5t.com/doballlive/ch381/
-#EXTINF:-1, tvg-logo="https://novacapsfans.com/wp-content/uploads/2021/01/Kill-the-Cable-Bill.png",NBC SN 
-https://cricfree.live/livetv/nbcsn.php
-#EXTINF:-1, tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EURO Sport 1 
-https://cricfree.live/livetv/euro1.php
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/c4/17/19/c41719b6235bd284e351e6210121ed1d.jpg",EURO Sport 2 
-https://cricfree.live/livetv/euro2.php
+
 
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg",SPOTV 
 https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
@@ -1007,38 +999,14 @@ https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-golf.png",GOLF CHANNEL HD
 https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc.jpg",FOX 501
-http://cricfree.live/livetv/fox501.php
 
 
 
 
 
 
-#EXTINF:-1 group-title="Sport HD",SWISS SPORT TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1 group-title="Sport HD",Look Sport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="Sport HD",Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="Sport HD",Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="Sport HD",Look Sport+
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT LALIGA
-http://vmp343.ddnsking.com:80/david2/david2/394991
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT PREMIER LEAUGE
-http://vmp343.ddnsking.com:80/david2/david2/394993
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT FOOTBALL
-http://vmp343.ddnsking.com:80/david2/david2/394994
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT GRANDSTAND
-http://vmp343.ddnsking.com:80/david2/david2/394995
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT BLITZ
-http://vmp343.ddnsking.com:80/david2/david2/394999
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT MAXIMO
-http://vmp343.ddnsking.com:80/david2/david2/395000
-#EXTINF:-1 group-title="Sport HD",SUPER SPORT TENNIS
-http://vmp343.ddnsking.com:80/david2/david2/395002
+
+
 
 
 
