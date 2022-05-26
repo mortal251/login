@@ -4,6 +4,24 @@
    
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", fox sports
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", fox sports 3
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", espn
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTE", win sports
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278314666515746820/seikVSHv_400x400.jpg" group-title="DEPORTE", NBA TV
+https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
@@ -135,6 +153,12 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/1928294856_ESPNPremium(2).png.c1c3260f8fe3a45777ff9c1d0efdcdb4.png" group-title="DEPORTE", Fox Sports Premium
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxw_0uAiMMguL4PH5ckG3DpJY_2aCrKxfh-mDKk_kUPW-OVWp3GuOMMNNHsZ1dSL-EA8&usqp=CAU" group-title="DEPORTE",BEIN SPORT HD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxw_0uAiMMguL4PH5ckG3DpJY_2aCrKxfh-mDKk_kUPW-OVWp3GuOMMNNHsZ1dSL-EA8&usqp=CAU" group-title="DEPORTE",BEIN SPORT HD
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title="DEPORTE", VTV PLUS
