@@ -2,9 +2,6 @@
 #EXTM3U 
 
    
-
-
-
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
@@ -29,6 +26,9 @@ http://edge1-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
 http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
  
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
@@ -58,6 +58,9 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
 http://edge-live34-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN EXTRA
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
@@ -76,6 +79,8 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 3
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 4
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
@@ -84,6 +89,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports 
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports 
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
@@ -96,6 +102,9 @@ http://edge1-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
@@ -111,6 +120,9 @@ https://edge7-ccast-sl.cvattv.com.ar//live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpo
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 
 
@@ -140,6 +152,9 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title="DEPORTE", VTV PLUS
 http://edge7-ccast-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1516439064651649026/UAIjflyA_400x400.jpg" group-title="DEPORTE", WIN SPORTS
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="DEPORTE", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
@@ -149,10 +164,19 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278314666515746820/seikVSHv_400x400.jpg" group-title="DEPORTE", NBA TV
 http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278314666515746820/seikVSHv_400x400.jpg" group-title="DEPORTE", NBA TV
+https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437435661540229121/c1Yf4ZtL_400x400.jpg" group-title="DEPORTE", NFL TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORTS XTRA en español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT HD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT HD
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="DEPORTE", Realmadrid tv
