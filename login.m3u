@@ -36,7 +36,7 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="DEPORTE", TyC SPORTS
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT
 http://200.89.191.164/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-mp4a_145200_spa=20001-avc1_2499968=10000.m3u8
 
  
@@ -58,7 +58,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTE", ESPN
 http://200.89.191.164/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_spa=20001-avc1_2499968=10007.m3u8
 
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTE", ESPN Paraguay
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="DEPORTE",ESPN Paraguay
 http://200.89.191.164/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY-mp4a_145200_eng=20000-avc1_2499968=10001.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="DEPORTE",ESPN Paraguay
@@ -67,7 +67,7 @@ http://200.89.191.164/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="DEPORTE",ESPN Uruguay
 http://200.89.191.164/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY.m3u8
 
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTE", ESPN Uruguay
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="DEPORTE",ESPN Uruguay
 http://200.89.191.164/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY-mp4a_145200_eng=20001-avc1_2499968=10006.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN EXTRA
@@ -95,13 +95,14 @@ http://200.89.191.164/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_spa
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTE", ESPN 2 Paraguay
 http://200.89.191.164/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-mp4a_145200_eng=20001-avc1_2499968=10001.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN_2.png" group-title="DEPORTE",ESPN 2 Paraguay
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTE", ESPN 2 Paraguay
 http://200.89.191.164/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTE", ESPN 2 Uruguay
 http://200.89.191.164/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY-mp4a_145200_eng=20000-avc1_2499968=10006.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN_2.png" group-title="DEPORTE",ESPN 2 Uruguay
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTE", ESPN 2 Uruguay
 http://200.89.191.164/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 3
@@ -263,14 +264,16 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437435661540229121/c1Yf4ZtL_400x400.jpg" group-title="DEPORTE", NFL TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT HD
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT HD
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT XTRA Ñ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", beIN SPORT HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="DEPORTE", Realmadrid tv
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613272f1279862000734464e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&
